@@ -1,0 +1,15 @@
+C:\PROJECTS\CoinsChange\CoinsC\CoinsC\bin\Debug\netcoreapp2.2\CoinsC.deps.json
+C:\PROJECTS\CoinsChange\CoinsC\CoinsC\bin\Debug\netcoreapp2.2\CoinsC.runtimeconfig.json
+C:\PROJECTS\CoinsChange\CoinsC\CoinsC\bin\Debug\netcoreapp2.2\CoinsC.runtimeconfig.dev.json
+C:\PROJECTS\CoinsChange\CoinsC\CoinsC\bin\Debug\netcoreapp2.2\CoinsC.dll
+C:\PROJECTS\CoinsChange\CoinsC\CoinsC\bin\Debug\netcoreapp2.2\CoinsC.pdb
+C:\PROJECTS\CoinsChange\CoinsC\CoinsC\obj\Debug\netcoreapp2.2\CoinsC.csprojAssemblyReference.cache
+C:\PROJECTS\CoinsChange\CoinsC\CoinsC\obj\Debug\netcoreapp2.2\CoinsC.csproj.CoreCompileInputs.cache
+C:\PROJECTS\CoinsChange\CoinsC\CoinsC\obj\Debug\netcoreapp2.2\CoinsC.AssemblyInfoInputs.cache
+C:\PROJECTS\CoinsChange\CoinsC\CoinsC\obj\Debug\netcoreapp2.2\CoinsC.AssemblyInfo.cs
+C:\PROJECTS\CoinsChange\CoinsC\CoinsC\obj\Debug\netcoreapp2.2\CoinsC.dll
+C:\PROJECTS\CoinsChange\CoinsC\CoinsC\obj\Debug\netcoreapp2.2\CoinsC.pdb
+C:\PROJECTS\CoinsChange\CoinsC\CoinsC\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\PROJECTS\CoinsChange\CoinsC\CoinsC\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\PROJECTS\CoinsChange\CoinsC\CoinsC\bin\Debug\netcoreapp2.2\nunit.engine.dll
+C:\PROJECTS\CoinsChange\CoinsC\CoinsC\bin\Debug\netcoreapp2.2\nunit.engine.api.dll
